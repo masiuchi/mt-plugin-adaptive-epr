@@ -12,7 +12,7 @@ my $plugin = __PACKAGE__->new({
     key      => lc $NAME,
     version  => $VERSION,
     author_name => 'masiuchi',
-    author_link => 'https://github.com/masiuchi/',
+    author_link => 'https://github.com/masiuchi',
     plugin_link => 'https://github.com/masiuchi/mt-plugin-adaptive-epr',
     description => 'Change EntriesPerRebuild adaptively.',
 });
